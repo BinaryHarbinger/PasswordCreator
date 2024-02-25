@@ -1,0 +1,5 @@
+Developer Logs for PasswordCreator Version 1.1:
+
++Color theme added
+
++Program is not instantly closing anymore
